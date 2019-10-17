@@ -1,0 +1,66 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+    
+    background-color:#d4e8ee;
+    letter-spacing: 1px;
+}
+
+.container
+{
+	
+      box-shadow : -20px 50px 200px aqua;
+	margin-left:250px;
+	margin-right:250px;
+	    border:  0.5px;
+	margin-top:10px;
+	height:100%;
+}
+
+.movieSearch
+{
+
+background-color:lightgrey;	
+height:20%;
+text-align:center;
+
+
+	
+}
+.del
+{
+	background-color:purple;
+	float:right;
+	width:10%;
+	border:none;
+	    margin-right: 10px;
+}
+li
+{
+	margin-top:15px;
+	margin-bottom:15px;
+	border-left:3px solid lightgrey;
+}
+.Add_button
+{
+	background-color:purple;
+	width:80px;
+	height:25px;
+	border:none;
+	
+}
+#movies_name
+{
+	
+background-color:white;
+height:60%;
+	
+}
+.Add_movie
+{
+
+background-color:white;
+height:20%;
+}
